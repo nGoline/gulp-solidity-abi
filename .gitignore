@@ -1,3 +1,4 @@
 node_modules
 test/fixtures/empty-parsed
 .nyc_output
+.vscode
