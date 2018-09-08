@@ -2,11 +2,7 @@
 
 var through = require('through2');
 
-module.exports = function gulpSolidityABI(callback) {
-
-  if (arguments.length === 1 && Object.prototype.toString.call(arguments[0]) === '[object Function]')
-    callback = arguments[0];
-
+module.exports = function gulpSolidityABI() {
   /**
    * @this {Transform}
    */
