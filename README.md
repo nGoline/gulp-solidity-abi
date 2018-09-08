@@ -1,4 +1,4 @@
-# gulp-solidity-abi
+# gulp-solidity-abi [![Build Status](https://travis-ci.org/nGoline/gulp-solidity-abi.svg?branch=master)](https://travis-ci.org/nGoline/gulp-solidity-abi)
 
 This is a gulp plugin to extract the ABI from Solidity contract and transform it into a js variable.
 
