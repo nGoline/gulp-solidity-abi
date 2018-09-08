@@ -1,3 +1,5 @@
+'use strict';
+
 const chai = require('chai');
 const chaiString = require('chai-string');
 const solidityABI = require('..');
