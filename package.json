@@ -1,6 +1,6 @@
 {
   "name": "gulp-solidity-abi",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Gulp plugin to extract the ABI from Solidity contract",
   "scripts": {
     "coverage": "nyc _mocha",
