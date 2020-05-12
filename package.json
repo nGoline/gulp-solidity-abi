@@ -1,6 +1,6 @@
 {
   "name": "gulp-solidity-abi",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Gulp plugin to extract the ABI from Solidity contract",
   "scripts": {
     "coverage": "nyc _mocha",
@@ -30,11 +30,11 @@
   "devDependencies": {
     "chai": "4.1.2",
     "chai-string": "1.5.0",
-    "gulp": "4.0.0",
+    "gulp": "4.0.2",
     "gulp-rename": "1.4.0",
     "mocha": "5.2.0",
     "mocha-lcov-reporter": "1.3.0",
-    "nyc": "^15.0.0",
-    "vinyl-fs-fake": "^1.1.1"
+    "nyc": "15.0.0",
+    "vinyl-fs-fake": "1.1.1"
   }
 }
